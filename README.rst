@@ -6,7 +6,7 @@ Distributed ID generation in python for the lazy. To install, run::
 
     pip install simpleflake
 
-Example useage::
+Example usage::
 
 	from simpleflake import simpleflake
 
