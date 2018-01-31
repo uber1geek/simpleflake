@@ -11,7 +11,7 @@ Example usage::
 	from simpleflake import simpleflake
 
 	def getid():
-    return simpleflake()
+    	return simpleflake()
 
 You can read an overview of what this does and why it came into being at the `Sawdust Software Blog`_.
 
